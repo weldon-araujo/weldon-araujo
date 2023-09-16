@@ -46,7 +46,7 @@ Neste repositório busco compartilhar principalmente minhas experências atuando
 <!-- Estatisticas -->
 <div>
 <a href="https://github.com/weldon-araujo">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldon-araujo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=weldon-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldon-araujo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=weldon-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 

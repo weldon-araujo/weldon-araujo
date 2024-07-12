@@ -1,6 +1,6 @@
 <h1>Weldon Araújo</h1>
 
-Atuante na área de Cyber Security como analista a frente do time de Cyber Threat Hunting na organização Networksecure Segurança da Infomração LTDA.
+Atuante na área de Cyber Security como analista de Cyber Threat Hunting.
 
 Neste repositório busco compartilhar principalmente minhas experências atuando na área de Cyber Security, expecificamente, mas não se limitando em Cyber Threat Hunting, compartilhando ferramentas, experiências etc.
 

@@ -2,13 +2,14 @@
 
 Atuante na área de Cyber Security como analista de Cyber Threat Hunting.
 
-Neste repositório busco compartilhar principalmente minhas experências atuando na área de Cyber Security, expecificamente, mas não se limitando em Cyber Threat Hunting, compartilhando ferramentas, experiências etc.
+Neste repositório busco compartilhar principalmente minhas experências atuando na área de Cyber Security, expecificamente, mas não se limitando em Cyber Threat Hunting, compartilhando ferramentas e experiências.
 
 <div style="display: inline">
   
-🖥️ Estudante de desenvolvimento amador<br />
+🖥️ Pesquisador de Cyber Security<br />
 💀 Hacking<br />
 💻 Cyber Threat Hunting<br />
+💻 Incident response<br />
 
 </div>
 
